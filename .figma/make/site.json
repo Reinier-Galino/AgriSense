@@ -1,0 +1,10 @@
+{
+  "description": "Connects small farmers and cooperatives to field sensors for real-time monitoring and alerts via SMS or chat, optimizing resource use and farm management.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
